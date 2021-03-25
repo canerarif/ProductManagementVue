@@ -1,7 +1,6 @@
 <template>
   <div class="container">
     <div class="row">
-                    <label>Açıklama</label>
       <div class="col-6 offset-3 pt-3 card mt-5 shadow">
         <div class="card-body">
           <h3>Ürün İşlemleri</h3>
